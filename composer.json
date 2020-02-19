@@ -1,0 +1,20 @@
+{
+    "name": "gerlovsky/yandex-money-sms-parser",
+    "description": "Парсинг текста из смс от сервиса Яндекс.Деньги",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Ruslan Gerlovsky",
+            "email": "ruslan@gerlovsky.ru"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    }
+}
